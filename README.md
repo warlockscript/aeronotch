@@ -11,7 +11,7 @@ fader, so the engineer always has the final say.
 > **Beta.** `1.0.0-beta.1` is fully working, with no time limit in this beta.
 > Feedback from real rooms and real rigs is what this beta is for, so please
 > tell us how it went:
-> support@nullwatch.alphabellsystems.com
+> support@aeronotch.alphabellsystems.com
 
 ## Download
 

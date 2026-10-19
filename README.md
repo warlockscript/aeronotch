@@ -114,6 +114,6 @@ like this:
 
 ## Support
 
-support@nullwatch.alphabellsystems.com
+support@aeronotch.alphabellsystems.com
 
 AeroNotch is made by MasterPro. The source code is not public.
